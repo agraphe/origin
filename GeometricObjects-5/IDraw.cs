@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 
 namespace GeometricObjects
-
-// GeometricObjects-4  - Thema Schnittstellen
-
 {
-  class Program
+  public interface IDraw
   {
-    static void Main(string[] args)
-    {
-    }
+    void Draw();
   }
 }

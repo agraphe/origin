@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjects-2", "Geome
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjects-3", "GeometricObjects-3\GeometricObjects-3.csproj", "{281FDCD1-C414-4D8F-83CF-2D810AC2A4B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjects-4", "GeometricObjects-4\GeometricObjects-4.csproj", "{B56707C9-BC68-4765-A5D3-85A4A28B8FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjects-5", "GeometricObjects-5\GeometricObjects-5.csproj", "{4D2297D2-AFB0-4208-99C9-A9FD07674430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{281FDCD1-C414-4D8F-83CF-2D810AC2A4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{281FDCD1-C414-4D8F-83CF-2D810AC2A4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{281FDCD1-C414-4D8F-83CF-2D810AC2A4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56707C9-BC68-4765-A5D3-85A4A28B8FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56707C9-BC68-4765-A5D3-85A4A28B8FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56707C9-BC68-4765-A5D3-85A4A28B8FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56707C9-BC68-4765-A5D3-85A4A28B8FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2297D2-AFB0-4208-99C9-A9FD07674430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2297D2-AFB0-4208-99C9-A9FD07674430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2297D2-AFB0-4208-99C9-A9FD07674430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2297D2-AFB0-4208-99C9-A9FD07674430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
